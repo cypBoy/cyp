@@ -5,5 +5,8 @@ public class HolleWord{
 		System.out.println("hello word!!!")
 		System.out.println("hi!!")
 		System.out.println("ni hao")
+
+
+		System.out.println("你好！！！！")
 	}
 }
